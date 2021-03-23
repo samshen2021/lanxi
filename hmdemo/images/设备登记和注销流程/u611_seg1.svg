@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="315 334  20 18" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 275 343  L 324 343  " stroke-width="2" stroke="#333333" fill="none" stroke-opacity="0.647058823529412" />
-  <path d="M 323 350.6  L 330 343  L 323 335.4  L 323 350.6  Z M 325 345.8  L 325 340.2  L 327 343  L 325 345.8  Z " fill-rule="nonzero" fill="#333333" stroke="none" fill-opacity="0.647058823529412" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="615 334  20 18" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip1256">
+      <path d="M 527 328  L 603 328  L 603 357  L 527 357  Z M 501 328  L 640 328  L 640 357  L 501 357  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 527 343  L 501 343  M 603 343  L 624 343  " stroke-width="2" stroke="#333333" fill="none" stroke-opacity="0.647058823529412" />
+  <path d="M 623 350.6  L 630 343  L 623 335.4  L 623 350.6  Z M 625 345.8  L 625 340.2  L 627 343  L 625 345.8  Z " fill-rule="nonzero" fill="#333333" stroke="none" fill-opacity="0.647058823529412" mask="url(#clip1256)" />
 </svg>
